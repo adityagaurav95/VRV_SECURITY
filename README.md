@@ -1,4 +1,6 @@
 #Log Analysis System
+
+
 Key Features
 - IP Traffic Analysis: Tracks and summarizes request frequency per IP address
 - Endpoint Monitoring: Identifies the most frequently accessed endpoints
@@ -22,19 +24,5 @@ The system generates three types of analysis:
 - Security Alerts: Flags IPs with suspicious activity (e.g., multiple failed logins)
 
 
-Requests per IP	
-IP Address	Request Count
-192.168.1.1	7
-203.0.113.5	8
-10.0.0.2	6
-198.51.100.23	8
-192.168.1.100	5
 	
-Most Accessed Endpoint	
-Endpoint	Access Count
-/login	13
-	
-Suspicious Activity	
-IP Address	Failed Login Count
-203.0.113.5	8
 
