@@ -20,6 +20,8 @@ The system generates three types of analysis:
 - Requests Per IP: Shows traffic distribution across different IP addresses
 - Popular Endpoints: Identifies most accessed URLs/endpoints
 - Security Alerts: Flags IPs with suspicious activity (e.g., multiple failed logins)
+
+
 Requests per IP	
 IP Address	Request Count
 192.168.1.1	7
