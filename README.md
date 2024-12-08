@@ -13,8 +13,8 @@ Technical Implementation
 
 Suspicious Activity
 This section flags IP addresses with suspicious behavior, such as excessive failed login attempts.
-IP Address: The IP address exhibiting suspicious activity.
-Failed Login Count: The total number of failed login attempts from the IP address.
+- IP Address: The IP address exhibiting suspicious activity.
+- Failed Login Count: The total number of failed login attempts from the IP address.
 
 
 Sample Output
